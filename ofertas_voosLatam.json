@@ -1,0 +1,107 @@
+[
+  {
+    "partida": "11:55 (THE)",
+    "chegada": "15:15 (GRU)",
+    "duracao": "3 h 20 min.",
+    "preco": "1219,34 Reais brasileiros",
+    "operador": "LATAM Airlines Brasil"
+  },
+  {
+    "partida": "16:30 (THE)",
+    "chegada": "19:40 (GRU)",
+    "duracao": "3 h 10 min.",
+    "preco": "1219,34 Reais brasileiros",
+    "operador": "LATAM Airlines Brasil"
+  },
+  {
+    "partida": "12:00 (THE)",
+    "chegada": "17:55 (CGH)",
+    "duracao": "5 h 55 min.",
+    "preco": "1440,44 Reais brasileiros",
+    "operador": "LATAM Airlines Brasil"
+  },
+  {
+    "partida": "12:00 (THE)",
+    "chegada": "18:05 (GRU)",
+    "duracao": "6 h 5 min.",
+    "preco": "3546,44 Reais brasileiros",
+    "operador": "LATAM Airlines Brasil"
+  },
+  {
+    "partida": "12:00 (THE)",
+    "chegada": "19:40 (CGH)",
+    "duracao": "7 h 40 min.",
+    "preco": "1440,44 Reais brasileiros",
+    "operador": "LATAM Airlines Brasil"
+  },
+  {
+    "partida": "12:00 (THE)",
+    "chegada": "20:20 (GRU)",
+    "duracao": "8 h 20 min.",
+    "preco": "3546,44 Reais brasileiros",
+    "operador": "LATAM Airlines Brasil"
+  },
+  {
+    "partida": "12:00 (THE)",
+    "chegada": "21:55 (CGH)",
+    "duracao": "9 h 55 min.",
+    "preco": "1440,44 Reais brasileiros",
+    "operador": "LATAM Airlines Brasil"
+  },
+  {
+    "partida": "12:00 (THE)",
+    "chegada": "23:10 (GRU)",
+    "duracao": "11 h 10 min.",
+    "preco": "3546,44 Reais brasileiros",
+    "operador": "LATAM Airlines Brasil"
+  },
+  {
+    "partida": "15:55 (THE)",
+    "chegada": "20:30 (CGH)",
+    "duracao": "4 h 35 min.",
+    "preco": "1461,33 Reais brasileiros",
+    "operador": "LATAM Airlines Brasil"
+  },
+  {
+    "partida": "15:55 (THE)",
+    "chegada": "20:35 (GRU)",
+    "duracao": "4 h 40 min.",
+    "preco": "3546,44 Reais brasileiros",
+    "operador": "LATAM Airlines Brasil"
+  },
+  {
+    "partida": "15:55 (THE)",
+    "chegada": "22:45 (GRU)",
+    "duracao": "6 h 50 min.",
+    "preco": "3546,44 Reais brasileiros",
+    "operador": "LATAM Airlines Brasil"
+  },
+  {
+    "partida": "12:00 (THE)",
+    "chegada": "19:20 (CGH)",
+    "duracao": "7 h 20 min.",
+    "preco": "1440,44 Reais brasileiros",
+    "operador": "LATAM Airlines Brasil"
+  },
+  {
+    "partida": "15:55 (THE)",
+    "chegada": "5:30+1 (GRU)",
+    "duracao": "13 h 35 min.",
+    "preco": "3546,44 Reais brasileiros",
+    "operador": "LATAM Airlines Brasil"
+  },
+  {
+    "partida": "15:55 (THE)",
+    "chegada": "5:55+1 (GRU)",
+    "duracao": "14 h",
+    "preco": "3546,44 Reais brasileiros",
+    "operador": "LATAM Airlines Brasil"
+  },
+  {
+    "partida": "15:55 (THE)",
+    "chegada": "6:05+1 (GRU)",
+    "duracao": "14 h 10 min.",
+    "preco": "3546,44 Reais brasileiros",
+    "operador": "LATAM Airlines Brasil"
+  }
+]
